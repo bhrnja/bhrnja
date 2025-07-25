@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Bea Hrnja! @bhrnja 
 - 👀 I’m interested in design, typography, and frontend development!
-- 🌱 I’m currently learning type design and front end development.
+- 🌱 I’m currently learning game development.
 - 💞️ I’m looking to collaborate on fonts, art, brands, and websites!
-- 📫 How to reach me ... on my Instagram or LinkedIn @bhrnja.
+- 📫 How to reach me ... on my Instagram or LinkedIn @beahrnja.
 - 😄 Pronouns: she/her :)
 - ⚡ Fun fact: I could probably teach you an entire typography course!
 
